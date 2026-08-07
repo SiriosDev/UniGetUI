@@ -29545,7 +29545,7 @@
       "images": []
     },
     "oh-my-posh": {
-      "icon": "https://community.chocolatey.org/content/packageimages/oh-my-posh.14.9.1.png",
+      "icon": "https://raw.githubusercontent.com/jandedobbeleer/oh-my-posh/main/website/static/img/logo.png",
       "images": []
     },
     "oha": {
