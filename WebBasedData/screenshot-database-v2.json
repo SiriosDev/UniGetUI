@@ -29546,7 +29546,12 @@
     },
     "oh-my-posh": {
       "icon": "https://raw.githubusercontent.com/jandedobbeleer/oh-my-posh/main/website/static/img/logo.png",
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/website/static/img/og-image.png",
+        "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/website/static/img/transient-color.png",
+        "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/website/static/img/accordeon.png",
+        "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/website/static/img/claude.png"
+      ]
     },
     "oha": {
       "icon": "",
