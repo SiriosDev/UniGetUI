@@ -13853,7 +13853,7 @@
       "images": []
     },
     "everythingtoolbar": {
-      "icon": "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Icons/Medium.ico",
+      "icon": "https://raw.githubusercontent.com/Aurocosh/chocolatey-packages/refs/heads/master/automatic/everythingtoolbar/img/icon.png",
       "images": [
         "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/fast.png",
         "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/flexible.png",
@@ -13862,7 +13862,7 @@
       ]
     },
     "everythingtoolbar-beta": {
-      "icon": "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Icons/Medium.ico",
+      "icon": "https://raw.githubusercontent.com/Aurocosh/chocolatey-packages/refs/heads/master/automatic/everythingtoolbar/img/icon.png",
       "images": [
         "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/fast.png",
         "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/flexible.png",
@@ -13871,7 +13871,7 @@
       ]
     },
     "everythingtoolbar-launcher": {
-      "icon": "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Icons/Medium.ico",
+      "icon": "https://raw.githubusercontent.com/Aurocosh/chocolatey-packages/refs/heads/master/automatic/everythingtoolbar/img/icon.png",
       "images": [
         "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/fast.png",
         "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/flexible.png",
@@ -13880,7 +13880,7 @@
       ]
     },
     "everythingtoolbar-deskband": {
-      "icon": "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Icons/Medium.ico",
+      "icon": "https://raw.githubusercontent.com/Aurocosh/chocolatey-packages/refs/heads/master/automatic/everythingtoolbar/img/icon.png",
       "images": [
         "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/fast.png",
         "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/flexible.png",
