@@ -13862,6 +13862,24 @@
         "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Images/TaskbarSearchBox.png"
       ]
     },
+    "everythingtoolbar-launcher": {
+      "icon": "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Icons/Medium.ico",
+      "images": [
+        "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/fast.png",
+        "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/flexible.png",
+        "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Images/PinToTaskbar.png",
+        "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Images/TaskbarSearchBox.png"
+      ]
+    },
+    "everythingtoolbar-deskband": {
+      "icon": "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Icons/Medium.ico",
+      "images": [
+        "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/fast.png",
+        "https://raw.githubusercontent.com/srwi/EverythingToolbar/develop/.github/images/flexible.png",
+        "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Images/PinToTaskbar.png",
+        "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Images/TaskbarSearchBox.png"
+      ]
+    },
     "evga-eleet": {
       "icon": "https://community.chocolatey.org/content/packageimages/evga-eleet.1.10.4.png",
       "images": []
