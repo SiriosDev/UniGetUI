@@ -13844,6 +13844,14 @@
       "icon": "https://raw.githubusercontent.com/lin-ycv/EverythingPowerToys/refs/heads/main/Images/Everything.light.png",
       "images": []
     },
+    "everythingcmdpal3": {
+      "icon": "https://raw.githubusercontent.com/lin-ycv/EverythingCommandPalette/refs/heads/main/EverythingCmdPal/Assets/Square150x150Logo.scale-200_theme-light.png",
+      "images": []
+    },
+    "everythingcmdpal": {
+      "icon": "https://raw.githubusercontent.com/lin-ycv/EverythingCommandPalette/refs/heads/main/EverythingCmdPal/Assets/Square150x150Logo.scale-200_theme-light.png",
+      "images": []
+    },
     "everythingtoolbar": {
       "icon": "https://raw.githubusercontent.com/srwi/EverythingToolbar/refs/heads/develop/EverythingToolbar.Launcher/Icons/Medium.ico",
       "images": [
