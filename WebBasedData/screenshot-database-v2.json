@@ -40991,8 +40991,22 @@
       "images": []
     },
     "subtitleedit": {
-      "icon": "https://community.chocolatey.org/content/packageimages/subtitleedit.3.6.11.20230215.png",
-      "images": []
+      "icon": "https://raw.githubusercontent.com/SubtitleEdit/subtitleedit/refs/heads/main/src/libse/Icon.png",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/cf/Subtitle_Edit_5.1.0_Screenshot.png"
+      ]
+    },
+    "subtitleedit4": {
+      "icon": "https://raw.githubusercontent.com/SubtitleEdit/subtitleedit/refs/heads/main/src/libse/Icon.png",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Subtitle_Edit_4.0.16_Screenshot.png"
+      ]
+    },
+    "subtitleedit-portable": {
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/archive/2/2a/20210220081841%21Subtitle_Edit_logo.png",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9d/Subtitle_Edit_3.5.18_Screenshot.png"
+      ]
     },
     "subtitler": {
       "icon": "",
